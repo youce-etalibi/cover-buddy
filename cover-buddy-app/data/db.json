@@ -1,0 +1,38 @@
+{
+  "cases": {
+    "new-drops": [
+      {
+        "id" : 0,
+        "title" : "xxx-xxx-xxx",
+        "price" : "100",
+        "original-picture" : "newdrops1.img",
+        "pictures" : ["newdrops1.img", "newdrops2.img"],
+        "promo" : "10%"
+      }
+    ],
+    "football-collection": [],
+    "personalisation": [],
+    "moroccan-boarding-pass": [],
+    "case-it-with-artist": [],
+    "straps": []
+  },
+  "client": [
+    {
+      "id": 0,
+      "nom": "coverbuddy",
+      "prenom": "team",
+      "pays": "ismontic",
+      "ville": "tangier",
+      "code-postal": "90010"
+    }
+  ],
+
+  "types-phones" : [
+    "iphone 14 pro max",
+    "iphone 14 pro",
+    "iphone 14",
+    "iphone 13 pro max"
+  ]
+
+
+}
